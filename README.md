@@ -11,6 +11,10 @@ This is an analysis of Summer Olympic Games held in varies countries, from the 1
              
 ## salient features:-
   - Provides pictorial representation through the medium of bar graph to viewers
-  - Include 2 solutions for most of the questions, which will be helpful for upcoming Data Anylists
+  - * Include 2 solutions for most of the questions, which will be helpful for upcoming Data Anylists
   - Uniform figure size of throughout
   - Easy and helpful 
+
+
+### Made by=>
+    ALANKAR SHARMA
