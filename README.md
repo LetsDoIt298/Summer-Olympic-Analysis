@@ -3,7 +3,8 @@ This is an analysis of Summer Olympic Games held in varies countries, from the 1
 
 
 ## How Analysis is performed:-
-  - Using pandas library of python
+  - Using Python
+  - Using pandas, a library of python
   - Based on some critical questions
   - Data stored in .csv format
              
